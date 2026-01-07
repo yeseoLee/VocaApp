@@ -28,6 +28,8 @@ dependencies = [
     "scikit-learn>=1.0.0",
     "matplotlib>=3.5.0",
     "seaborn>=0.11.0",
+    "pdfplumber>=0.11.0",
+    "deep-translator>=1.11.0",
 ]
 
 [dependency-groups]

@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+issue_templates:
+  - name: Bug Report
+    description: Report a bug to help us improve 🐞
+    file: bug_report.md
+  - name: Feature Template
+    description: Suggest an feature for this project 👩‍💻
+    file: feature.md
+  - name: Question Template
+    description: Ask a question about this project 🤷🏻‍♀️
+    file: question.md
